@@ -1,0 +1,44 @@
+body {
+    background: #F9EAB5;
+    overflow-x: hidden;
+}
+
+.logo{
+    width: 650px;
+    position: relative;
+    margin: auto;
+    padding: auto;
+    left: 0; 
+    right: 0;
+    top: 0;
+    bottom: 0;  
+}
+
+.img--furniture {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+
+.img--carpet {
+    position: relative;
+    top: 450px;
+}
+
+.img--shelf {
+    position: relative;
+    top: -450px;
+    left: -350px;
+}
+
+.img--desk {
+    position: relative;
+    top: -450px;
+    left: 750px;
+}
+
+.img--mirror {
+    position: relative;
+    top: -450px;
+    left: 500px;
+}
